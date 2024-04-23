@@ -1,4 +1,4 @@
-Consistent-geography-backseries
+# Consistent-geography-backseries
 This repository contains utilities for generating a consistent backseries between the 2011 and 2021 ONS population estimates. The provided functions facilitate the creation of a unified geography with areas that have split or merged, as well as handling more complex geography changes between 2011 and 2021. The functions are designed to accept varied geographic inputs, such as MSOA or LSOA.
 
 Contents
